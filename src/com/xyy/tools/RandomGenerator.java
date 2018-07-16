@@ -14,6 +14,7 @@ public class RandomGenerator {
 		}
 		
 	}
+<<<<<<< HEAD
 	public static class Byte implements Generator<java.lang.Byte> {
 
 		@Override
@@ -23,6 +24,8 @@ public class RandomGenerator {
 		}
 		
 	}
+=======
+>>>>>>> 9f4756b76d7fdb882efeefd076f6ee632be9228c
 	public static class Character implements Generator<java.lang.Character> {
 
 		@Override
